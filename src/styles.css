@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    background: linear-gradient(to right, #f5aa55, #ff5858);
+    box-shadow:  0px 0px 5px 0px rgba(0,0,0,0.75); 
+}
+
+h1.complete {
+    
+    display: flex;
+    justify-content: center;
+
+}
+
